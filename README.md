@@ -3,7 +3,6 @@
 # INTRO
 mccalni
 2018-11-17
-The usual stuff. Do what you like, but it ain't my fault. No warranty, no nothing. Be nice. See end of this file for CC0. 
 
 So, what is it? +theCat @redDwarf
 
